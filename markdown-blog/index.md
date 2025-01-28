@@ -7,3 +7,12 @@ Bref, tout ce qui suit ne sert à rien, passez votre chemin, dans la paix ✌️
 Bisous
 
 ------
+
+## Coming soon
+
+- BOOLZ ?!?!
+- Page Index
+- Objectif 1400 elo Chess.com
+- Un vrai "Hello World !"
+
+------
