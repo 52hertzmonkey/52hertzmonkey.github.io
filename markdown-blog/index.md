@@ -11,7 +11,7 @@ Bisous
 ## Coming soon
 
 - BOOLZ ?!?!
-- Page Index
+- Page Sommaire
 - Objectif 1400 elo Chess.com
 - Un vrai "Hello World !"
 
