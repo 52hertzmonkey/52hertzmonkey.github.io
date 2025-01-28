@@ -5,3 +5,5 @@ Tantôt sérieusement déficient, tantôt nonchalamment raisonnable, il ne fait 
 Bref, tout ce qui suit ne sert à rien, passez votre chemin, dans la paix ✌️.
 
 Bisous
+
+------
